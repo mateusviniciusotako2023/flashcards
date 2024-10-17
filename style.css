@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    background-color: lawngreen;
+    color: black;
+    position :fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    margin: 0.5rem;
+}
+#container{
+    display: flex;
+}
+.cartao{
+    margin: 1rem 1rem;
+}
