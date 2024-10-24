@@ -28,3 +28,12 @@ footer p{
         text-align: center;
         background-color: aqua;
     }
+    .cartao_conteudo h3{
+        background-color: aliceblue;
+    text-align: left;
+    padding: 0.6rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+    } 
